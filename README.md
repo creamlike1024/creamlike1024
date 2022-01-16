@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-- 🌱 I’m currently learning C Programming Language
+ヾ(•ω•`)o
 <!--
 **icedtangerine7/icedtangerine7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
